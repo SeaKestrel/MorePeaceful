@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Cj8ZmvMSLmvqnB4UGqHctPcV/2hU85HIPm9Acg4duDLktZaq0J+4ekQj2KXlvdOMQTWAIbj+oPp+cb1suVWEw==",
+  "success": true,
+  "projectFilePath": "F:\\jeans\\DredgeModding\\MoreDredge-main\\MorePeaceful\\MorePeaceful.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julien\\.nuget\\packages\\dredgegamelibs\\1.3.0\\dredgegamelibs.1.3.0.nupkg.sha512",
+    "C:\\Users\\Julien\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Julien\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "C:\\Users\\Julien\\.nuget\\packages\\winch\\0.2.3\\winch.0.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

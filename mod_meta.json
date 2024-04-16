@@ -1,0 +1,8 @@
+{
+	"Name": "MorePeaceful",
+	"ModGUID": "DaSea.MorePeaceful",
+	"Version": "0.1.0",
+	"ModAssembly": "MorePeaceful.dll",
+	"MinWinchVersion": "0.2.3",
+	"Entrypoint": "MorePeaceful.Loader/Initialize"
+}

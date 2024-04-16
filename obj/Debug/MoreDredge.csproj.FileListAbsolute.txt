@@ -1,0 +1,15 @@
+F:\SteamLibrary\steamapps\common\DREDGE\Mods\DaSea.MoreDredge\mod_meta.json
+F:\SteamLibrary\steamapps\common\DREDGE\Mods\DaSea.MoreDredge\MoreDredge.dll
+F:\SteamLibrary\steamapps\common\DREDGE\Mods\DaSea.MoreDredge\MoreDredge.pdb
+F:\jeans\DredgeModding\MoreDredge-main\MoreDredge\obj\Debug\MoreDredge.csproj.AssemblyReference.cache
+F:\jeans\DredgeModding\MoreDredge-main\MoreDredge\obj\Debug\MoreDredge.GeneratedMSBuildEditorConfig.editorconfig
+F:\jeans\DredgeModding\MoreDredge-main\MoreDredge\obj\Debug\MoreDredge.AssemblyInfoInputs.cache
+F:\jeans\DredgeModding\MoreDredge-main\MoreDredge\obj\Debug\MoreDredge.AssemblyInfo.cs
+F:\jeans\DredgeModding\MoreDredge-main\MoreDredge\obj\Debug\MoreDredge.csproj.CoreCompileInputs.cache
+F:\jeans\DredgeModding\MoreDredge-main\MoreDredge\obj\Debug\MoreDredge.csproj.CopyComplete
+F:\jeans\DredgeModding\MoreDredge-main\MoreDredge\obj\Debug\MoreDredge.dll
+F:\jeans\DredgeModding\MoreDredge-main\MoreDredge\obj\Debug\MoreDredge.pdb
+F:\SteamLibrary\steamapps\common\DREDGE\Mods\DaSea.MoreDredge\Assets\Textures\moredredge.bigengine.png
+F:\SteamLibrary\steamapps\common\DREDGE\Mods\DaSea.MoreDredge\Assets\Localization\fr.json
+F:\SteamLibrary\steamapps\common\DREDGE\Mods\DaSea.MoreDredge\Assets\Items\Engines\moredredge.bigengine.json
+F:\SteamLibrary\steamapps\common\DREDGE\Mods\DaSea.MoreDredge\Assets\Localization\en.json
