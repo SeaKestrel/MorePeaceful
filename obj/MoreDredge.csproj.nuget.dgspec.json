@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\jeans\\DredgeModding\\MoreDredge-main\\MoreDredge\\MoreDredge.csproj": {}
+  },
+  "projects": {
+    "F:\\jeans\\DredgeModding\\MoreDredge-main\\MoreDredge\\MoreDredge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\jeans\\DredgeModding\\MoreDredge-main\\MoreDredge\\MoreDredge.csproj",
+        "projectName": "MoreDredge",
+        "projectPath": "F:\\jeans\\DredgeModding\\MoreDredge-main\\MoreDredge\\MoreDredge.csproj",
+        "packagesPath": "C:\\Users\\Julien\\.nuget\\packages\\",
+        "outputPath": "F:\\jeans\\DredgeModding\\MoreDredge-main\\MoreDredge\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julien\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "DredgeGameLibs": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "Winch": {
+              "target": "Package",
+              "version": "[0.2.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

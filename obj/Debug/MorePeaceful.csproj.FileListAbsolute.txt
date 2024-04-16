@@ -1,0 +1,13 @@
+F:\SteamLibrary\steamapps\common\DREDGE\Mods\DaSea.MorePeaceful\mod_meta.json
+F:\SteamLibrary\steamapps\common\DREDGE\Mods\DaSea.MorePeaceful\MorePeaceful.dll
+F:\SteamLibrary\steamapps\common\DREDGE\Mods\DaSea.MorePeaceful\MorePeaceful.pdb
+F:\jeans\DredgeModding\MoreDredge-main\MorePeaceful\obj\Debug\MorePeaceful.csproj.AssemblyReference.cache
+F:\jeans\DredgeModding\MoreDredge-main\MorePeaceful\obj\Debug\MorePeaceful.GeneratedMSBuildEditorConfig.editorconfig
+F:\jeans\DredgeModding\MoreDredge-main\MorePeaceful\obj\Debug\MorePeaceful.AssemblyInfoInputs.cache
+F:\jeans\DredgeModding\MoreDredge-main\MorePeaceful\obj\Debug\MorePeaceful.AssemblyInfo.cs
+F:\jeans\DredgeModding\MoreDredge-main\MorePeaceful\obj\Debug\MorePeaceful.csproj.CoreCompileInputs.cache
+F:\jeans\DredgeModding\MoreDredge-main\MorePeaceful\obj\Debug\MorePeaceful.csproj.CopyComplete
+F:\jeans\DredgeModding\MoreDredge-main\MorePeaceful\obj\Debug\MorePeaceful.dll
+F:\jeans\DredgeModding\MoreDredge-main\MorePeaceful\obj\Debug\MorePeaceful.pdb
+F:\SteamLibrary\steamapps\common\DREDGE\Mods\DaSea.MorePeaceful\Assets\Localization\en.json
+F:\SteamLibrary\steamapps\common\DREDGE\Mods\DaSea.MorePeaceful\Assets\Localization\fr.json
